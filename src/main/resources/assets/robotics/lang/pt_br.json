@@ -1,0 +1,48 @@
+{
+  "itemGroup.robotics": "Create Robôticas",
+
+  "item.robotics.tin_ingot": "Barra de Estanho",
+  "item.robotics.tin_nugget": "Pepita de Estanho",
+  "item.robotics.raw_tin": "Estanho bruto",
+  "item.robotics.bronze_ingot": "Barra de Bronze",
+  "item.robotics.bronze_nugget": "Pepita de Bronze",
+  "item.robotics.program": "Programa",
+  "item.robotics.clockcopter": "Relógiocóptero",
+  "item.robotics.miner": "Minerador",
+  "item.robotics.code_drone": "Drone de Código",
+  "item.robotics.extend_o_boots": "Botas-Extensoras",
+
+  "block.robotics.tin_ore": "Minério de Estanho",
+  "block.robotics.deepslate_tin_ore": "Minério de estanho de ardósia",
+  "block.robotics.tin_block": "Bloco de Estanho",
+  "block.robotics.bronze_block": "Bloco de Bronze",
+  "block.robotics.smasher_block": "Esmagador",
+  "block.robotics.code_editor": "Editor de Código",
+
+  "entity.robotics.clockcopter": "Relógiocóptero",
+  "entity.robotics.code_drone": "Juan",
+  "entity.robotics.miner": "Minerador",
+  "entity.robotics.extend_o_boots": "Botas-Extensoras",
+
+  "item.robotics.extend_o_boots.tooltip": "BOTAS-EXTENSORAS",
+  "item.robotics.extend_o_boots.tooltip.summary": "Seu _Andaime equipável_! Permite que você crie _Andaimes extensíveis temporários_ abaixo de seus pés.",
+  "item.robotics.extend_o_boots.tooltip.control1": "Segure Crtl quando equipado",
+  "item.robotics.extend_o_boots.tooltip.action1": "Permite que você _ative_ as BotasExtensoras ao _rolar a roda do mouse_",
+
+  "item.robotics.program.tooltip": "PROGRAMA",
+  "item.robotics.program.tooltip.summary": "Um _programa contendo código_! Permite que você _programe robôs_.",
+  "item.robotics.program.tooltip.control1": "Botão direito no Editor de Código",
+  "item.robotics.program.tooltip.action1": "Permite que você _edite_ o _conteúdo_ dos programas",
+  "item.robotics.program.tooltip.control2": "Botão direito em um robô programável",
+  "item.robotics.program.tooltip.action2": "Permite que você _aplique_ o _código_ do programa ao _robô_",
+
+  "block.robotics.code_editor.tooltip": "EDITOR DE CÓDIGO",
+  "block.robotics.code_editor.tooltip.summary": "Um bloco que permite a você _editar_ o _conteúdo_ de um programa!",
+  "block.robotics.code_editor.tooltip.condition1": "Quando clicar com o botão direito em um programa",
+  "block.robotics.code_editor.tooltip.behaviour1": "Permite que você _edite_ o _programa_",
+
+  "robotics.ponder.programming.header": "Programando usando o Editor de Código.",
+  "robotics.ponder.programming.text_1": "Para mudar o conteúdo de um programa você precisa de um editor de código.",
+  "robotics.ponder.programming.text_2": "Pressione o botão direito no editor de código com o programa na mão para começar!",
+  "robotics.ponder.programming.text_3": "Quando você acabar de programar pressione botão direito com o programa na mão em um robô programável para aplicar o código."
+}
